@@ -71,18 +71,10 @@
 👉 **Check pinned repositories below ⬇️**
 
 ---
-
-## 📊 GitHub Stats  
+## 📈 Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ashokbikkad97&show_icons=true&theme=react&cache_seconds=1800&count_private=true" 
-    height="160"
-  />
-  <img 
-    src="https://streak-stats.demolab.com/?user=Ashokbikkad97&theme=react" 
-    height="160"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashokbikkad97&theme=react-dark"/>
 </p>
 
 
